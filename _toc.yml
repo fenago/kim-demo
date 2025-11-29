@@ -1,0 +1,11 @@
+format: jb-book
+root: intro
+chapters:
+  - file: chapter-01-the-magic-behind-everyday-ai-what-machine-learning
+  - file: chapter-02-your-first-algorithm-teaching-computers-to-make-pr
+  - file: chapter-03-the-art-of-classification-making-smart-decisions-w
+  - file: chapter-04-clustering-finding-hidden-patterns-in-chaos
+  - file: chapter-05-neural-networks-building-artificial-brains-from-sc
+  - file: chapter-06-deep-learning-when-machines-learn-like-humans
+  - file: chapter-07-real-world-ml-from-prototype-to-production
+  - file: chapter-08-the-future-is-learning-advanced-techniques-and-wha
