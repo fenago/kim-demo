@@ -1,0 +1,31 @@
+# MyST configuration for Introduction to Machine Learning
+version: 1
+
+project:
+  title: "Introduction to Machine Learning"
+  description: "A 2000 level college textbook about Machine Learning.  Should be very practical, should start with an introduction that's almost a TED talk that explains the concept intuitively, in the style of, let's say, Arvin Ash.
+
+Then it should move on to a step-by-step with code, and the code very well explained to reinforce.
+
+And, lastly, should have a really solid ending. That's the style that I want.
+
+Also, I want to make sure that their exercises and the exercises should be guided code exercises, and then I want there to also be problems where you just give them the problem without the guides, and they have to solve the entire thing. Make it about eight chapters. "
+  authors:
+    - name: "Dr. Ernesto Lee"
+  jupyter:
+    lite: true
+
+
+
+site:
+  template: book-theme
+  title: "Introduction to Machine Learning"
+  nav:
+    - file: chapters/chapter-1
+    - file: chapters/chapter-2
+    - file: chapters/chapter-3
+    - file: chapters/chapter-4
+    - file: chapters/chapter-5
+    - file: chapters/chapter-6
+    - file: chapters/chapter-7
+    - file: chapters/chapter-8
